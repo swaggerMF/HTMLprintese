@@ -214,13 +214,6 @@ footer {
     gap:60px;
     overflow: hidden;
   }
-  
-  /* .glitter-container img {
-    display: block;
-    width: 100%;
-  } */
-  
-
   .glitter-container li:hover::after {
     content: "";
     position: absolute;
@@ -254,6 +247,7 @@ footer {
       opacity: 0;
     }
   }
+
 .solobanu{
     width: 350px;
 }
